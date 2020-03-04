@@ -1,0 +1,11 @@
+C:\Proyectos\ProyectoFinal_BPPD\RastreoPaquetes\bin\Debug\netcoreapp3.1\RastreoPaquetes.exe
+C:\Proyectos\ProyectoFinal_BPPD\RastreoPaquetes\bin\Debug\netcoreapp3.1\RastreoPaquetes.deps.json
+C:\Proyectos\ProyectoFinal_BPPD\RastreoPaquetes\bin\Debug\netcoreapp3.1\RastreoPaquetes.runtimeconfig.json
+C:\Proyectos\ProyectoFinal_BPPD\RastreoPaquetes\bin\Debug\netcoreapp3.1\RastreoPaquetes.runtimeconfig.dev.json
+C:\Proyectos\ProyectoFinal_BPPD\RastreoPaquetes\bin\Debug\netcoreapp3.1\RastreoPaquetes.dll
+C:\Proyectos\ProyectoFinal_BPPD\RastreoPaquetes\bin\Debug\netcoreapp3.1\RastreoPaquetes.pdb
+C:\Proyectos\ProyectoFinal_BPPD\RastreoPaquetes\obj\Debug\netcoreapp3.1\RastreoPaquetes.csprojAssemblyReference.cache
+C:\Proyectos\ProyectoFinal_BPPD\RastreoPaquetes\obj\Debug\netcoreapp3.1\RastreoPaquetes.AssemblyInfoInputs.cache
+C:\Proyectos\ProyectoFinal_BPPD\RastreoPaquetes\obj\Debug\netcoreapp3.1\RastreoPaquetes.AssemblyInfo.cs
+C:\Proyectos\ProyectoFinal_BPPD\RastreoPaquetes\obj\Debug\netcoreapp3.1\RastreoPaquetes.dll
+C:\Proyectos\ProyectoFinal_BPPD\RastreoPaquetes\obj\Debug\netcoreapp3.1\RastreoPaquetes.pdb
